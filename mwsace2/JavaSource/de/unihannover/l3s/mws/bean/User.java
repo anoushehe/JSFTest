@@ -40,8 +40,10 @@ public class User {
 		return name;
 	}
 
+//Name of user
 	public void setName(String name) {
-		this.name = name;
+		this.name = name; 
+		
 	}
 	
 	public String getPassword() {
